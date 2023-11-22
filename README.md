@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 📝 I regularly write articles on [https://medium.com/@shruthijayabal07](https://medium.com/@shruthijayabal07)
+- 📝 I regularly write articles on [https://medium.com/@shruthijayabal07] (https://medium.com/@shruthijayabal07)
 
 - ✉️ How to reach me **shruthijayabal07@gmail.com**
 
