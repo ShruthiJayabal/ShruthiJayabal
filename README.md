@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruthi J</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
+<h3> About me </h3> 
+<p> I am a passionate learner </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthijayabal&label=Profile%20views&color=0e75b6&style=flat" alt="shruthijayabal" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**
